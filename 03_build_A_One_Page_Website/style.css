@@ -1,0 +1,11 @@
+nav {
+    height: 50px;
+    background-color: lightgrey;
+  }
+.inline-block {
+  padding: 15px;
+  display: inline-block;
+
+  #sidebar{
+    float: left;
+  }
