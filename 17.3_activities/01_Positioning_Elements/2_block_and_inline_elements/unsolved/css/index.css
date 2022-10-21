@@ -28,7 +28,7 @@ input {
   display: block;
   width: 100%;
   padding: 4%;
-  -webkit-appearance: none;
+  webkit-appearance: none;
   /* max-width: 330px; */
   box-sizing: border-box;
 }

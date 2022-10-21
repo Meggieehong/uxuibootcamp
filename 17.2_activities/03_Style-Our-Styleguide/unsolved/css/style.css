@@ -7,13 +7,48 @@
  background-repeat: no-repeat;
  background-position: bottom;
 }
+
+.body {
+   font-family: 'Open Sans', sans-serif;
+}
+
+
 #pageTopic {
   text-align: center;
+  font-size: 14px;
+  font-weight: 900;
 } 
 /* Primary Color */
 .colorContainer {
     display: inline-block;
     margin: 15px;
+}
+.darkBlue {
+   background-color: #333366;
+}
+.darkGrey {
+   background-color: #545454;
+}
+.lightGrey {
+   background-color: #E3E3E3;
+}
+.white {
+   background-color: #FFFFFF;
+}
+.lightblue {
+   background-color: #12A0F6;
+}
+.red {
+   background-color: #F84848;
+}
+.orange {
+   background-color: #FC7705;
+}
+.lightBlue {
+   background-color: #13A0F6;
+}
+.lightGreen {
+   background-color: #8abe48;
 }
 .swatch {
    height: 200px;
@@ -32,6 +67,10 @@
 .type_container {
    display: inline-block;
    margin: 20px;
+   font-size: 66px;
+   margin-bottom: 15px;
+   margin-top: 0;
+
 }
 
 /* UI Elements */
